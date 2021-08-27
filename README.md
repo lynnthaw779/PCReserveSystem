@@ -31,3 +31,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 https://lynnthaw779.github.io/PCReserveSystem/
 
 https://github.com/michael-mcanulty/md-datetimepicker
+
+https://github.com/SyncfusionExamples/ej2-angular-11-datetime-picker
