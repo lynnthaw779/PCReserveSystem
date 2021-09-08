@@ -33,3 +33,5 @@ https://lynnthaw779.github.io/PCReserveSystem/
 https://github.com/michael-mcanulty/md-datetimepicker
 
 https://github.com/SyncfusionExamples/ej2-angular-11-datetime-picker
+
+https://ej2.syncfusion.com/angular/documentation/schedule/editor-template/#customizing-the-default-time-duration-in-editor-window
