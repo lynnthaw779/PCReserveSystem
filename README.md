@@ -37,3 +37,5 @@ https://github.com/SyncfusionExamples/ej2-angular-11-datetime-picker
 https://ej2.syncfusion.com/angular/documentation/schedule/editor-template/#customizing-the-default-time-duration-in-editor-window
 
 https://qiita.com/ksh-fthr/items/769767c346c8f04e2df2
+
+https://www.youtube.com/watch?v=2Bz5BsbpZvo
