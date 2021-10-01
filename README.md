@@ -41,3 +41,5 @@ https://ej2.syncfusion.com/angular/demos/#/material/schedule/local-data
 https://qiita.com/ksh-fthr/items/769767c346c8f04e2df2
 
 https://www.youtube.com/watch?v=2Bz5BsbpZvo
+
+https://fo-jineer.com/property-does-not-exist-on-type-typeof/
